@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.951ba003.css",
+    "main.js": "/static/js/main.0516a19d.js",
+    "static/js/787.6c03258b.chunk.js": "/static/js/787.6c03258b.chunk.js",
+    "static/media/Hero.png": "/static/media/Hero.4ffcf3ac196f4bc15f79.png",
+    "static/media/GalerySix.jpg": "/static/media/GalerySix.4dcfcc35e2d38f7fab70.jpg",
+    "static/media/GaleryThree.jpg": "/static/media/GaleryThree.cf637275115694914233.jpg",
+    "static/media/GaleryTwo.jpg": "/static/media/GaleryTwo.d31d07a9f7bde3884032.jpg",
+    "static/media/GaleryFour.jpg": "/static/media/GaleryFour.602191ffebc2eb80ac2a.jpg",
+    "static/media/GaleryFive.jpg": "/static/media/GaleryFive.1b336ad8668953c0a113.jpg",
+    "static/media/Brand.png": "/static/media/Brand.b4fa1abb2336d55633e2.png",
+    "static/media/Billgates.png": "/static/media/Billgates.a05017bdc45d645238fa.png",
+    "static/media/Elonmusk.png": "/static/media/Elonmusk.36e8966146e4fb6e1f84.png",
+    "static/media/GaleryOne.jpg": "/static/media/GaleryOne.9456250d784fb698294f.jpg",
+    "static/media/Mark.png": "/static/media/Mark.652e5dc1cfde7c0206ac.png",
+    "static/media/About.jpg": "/static/media/About.8a3d3979521be30144f2.jpg",
+    "static/media/Contact.jpg": "/static/media/Contact.13b798d6ec4d62e3e4d2.jpg",
+    "static/media/React.svg": "/static/media/React.4ee8d0003d0f7f9ccea0.svg",
+    "static/media/WaveAnimation.svg": "/static/media/WaveAnimation.f1c7c12a4b7fddd71032.svg",
+    "static/media/Laravel.svg": "/static/media/Laravel.ba995bd47e3a7cc141cc.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.f8eb4bc6ecb96d63cfd5.svg",
+    "static/media/Brush.svg": "/static/media/Brush.9a5136148b2ac36086d4.svg",
+    "static/media/Whatsapp.svg": "/static/media/Whatsapp.cc6c727fbc3d912081b6.svg",
+    "static/media/Bootstrap.svg": "/static/media/Bootstrap.eb52cdf49b541157496d.svg",
+    "static/media/Youtube.svg": "/static/media/Youtube.5b5d2187f424210c8aa0.svg",
+    "static/media/Bug.svg": "/static/media/Bug.79c9d56863ccf626e541.svg",
+    "static/media/Github.svg": "/static/media/Github.0b434233fbb882ca811f.svg",
+    "index.html": "/index.html",
+    "static/media/Tailwind.svg": "/static/media/Tailwind.017e1e304e12384d156d.svg",
+    "static/media/Code.svg": "/static/media/Code.a1227aaac904272d80cc.svg",
+    "static/media/moon-fill.svg": "/static/media/moon-fill.9b943b998a06a12d76d3.svg",
+    "static/media/Tiktok.svg": "/static/media/Tiktok.53b871cedf6edb7bf54b.svg",
+    "static/media/Hearth.svg": "/static/media/Hearth.c68e6ce6cbede56b8de5.svg",
+    "main.951ba003.css.map": "/static/css/main.951ba003.css.map",
+    "main.0516a19d.js.map": "/static/js/main.0516a19d.js.map",
+    "787.6c03258b.chunk.js.map": "/static/js/787.6c03258b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.951ba003.css",
+    "static/js/main.0516a19d.js"
+  ]
+}
