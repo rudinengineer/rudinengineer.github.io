@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0adfba7.css",
-    "main.js": "/static/js/main.0ab152c4.js",
+    "main.css": "/static/css/main.655cdc6d.css",
+    "main.js": "/static/js/main.ec1e2f1d.js",
     "static/js/787.6c03258b.chunk.js": "/static/js/787.6c03258b.chunk.js",
-    "static/media/Hero.png": "/static/media/Hero.4ffcf3ac196f4bc15f79.png",
+    "static/media/Heros.png": "/static/media/Heros.4ffcf3ac196f4bc15f79.png",
     "static/media/GalerySix.jpg": "/static/media/GalerySix.4dcfcc35e2d38f7fab70.jpg",
     "static/media/GaleryThree.jpg": "/static/media/GaleryThree.cf637275115694914233.jpg",
     "static/media/GaleryTwo.jpg": "/static/media/GaleryTwo.d31d07a9f7bde3884032.jpg",
     "static/media/GaleryFour.jpg": "/static/media/GaleryFour.602191ffebc2eb80ac2a.jpg",
     "static/media/GaleryFive.jpg": "/static/media/GaleryFive.1b336ad8668953c0a113.jpg",
+    "static/media/Hero.jpg": "/static/media/Hero.1b8f0efab7e0e40bd094.jpg",
     "static/media/Brand.png": "/static/media/Brand.b4fa1abb2336d55633e2.png",
     "static/media/Billgates.png": "/static/media/Billgates.a05017bdc45d645238fa.png",
     "static/media/Elonmusk.png": "/static/media/Elonmusk.36e8966146e4fb6e1f84.png",
@@ -34,12 +35,12 @@
     "static/media/moon-fill.svg": "/static/media/moon-fill.9b943b998a06a12d76d3.svg",
     "static/media/Tiktok.svg": "/static/media/Tiktok.53b871cedf6edb7bf54b.svg",
     "static/media/Hearth.svg": "/static/media/Hearth.c68e6ce6cbede56b8de5.svg",
-    "main.b0adfba7.css.map": "/static/css/main.b0adfba7.css.map",
-    "main.0ab152c4.js.map": "/static/js/main.0ab152c4.js.map",
+    "main.655cdc6d.css.map": "/static/css/main.655cdc6d.css.map",
+    "main.ec1e2f1d.js.map": "/static/js/main.ec1e2f1d.js.map",
     "787.6c03258b.chunk.js.map": "/static/js/787.6c03258b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0adfba7.css",
-    "static/js/main.0ab152c4.js"
+    "static/css/main.655cdc6d.css",
+    "static/js/main.ec1e2f1d.js"
   ]
 }
