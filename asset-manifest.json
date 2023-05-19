@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.655cdc6d.css",
-    "main.js": "/static/js/main.ec1e2f1d.js",
-    "static/js/787.6c03258b.chunk.js": "/static/js/787.6c03258b.chunk.js",
+    "main.css": "/static/css/main.c58d444a.css",
+    "main.js": "/static/js/main.5689a1b8.js",
+    "static/js/787.efaef869.chunk.js": "/static/js/787.efaef869.chunk.js",
     "static/media/Heros.png": "/static/media/Heros.4ffcf3ac196f4bc15f79.png",
     "static/media/GalerySix.jpg": "/static/media/GalerySix.4dcfcc35e2d38f7fab70.jpg",
     "static/media/GaleryThree.jpg": "/static/media/GaleryThree.cf637275115694914233.jpg",
     "static/media/GaleryTwo.jpg": "/static/media/GaleryTwo.d31d07a9f7bde3884032.jpg",
     "static/media/GaleryFour.jpg": "/static/media/GaleryFour.602191ffebc2eb80ac2a.jpg",
+    "static/media/Skills.jpg": "/static/media/Skills.6c3210c84fffeb35b502.jpg",
+    "static/media/Skill.jpg": "/static/media/Skill.1aacb36121d19b9dd088.jpg",
     "static/media/GaleryFive.jpg": "/static/media/GaleryFive.1b336ad8668953c0a113.jpg",
-    "static/media/Hero.jpg": "/static/media/Hero.1b8f0efab7e0e40bd094.jpg",
     "static/media/Brand.png": "/static/media/Brand.b4fa1abb2336d55633e2.png",
     "static/media/Billgates.png": "/static/media/Billgates.a05017bdc45d645238fa.png",
     "static/media/Elonmusk.png": "/static/media/Elonmusk.36e8966146e4fb6e1f84.png",
@@ -17,6 +18,7 @@
     "static/media/Mark.png": "/static/media/Mark.652e5dc1cfde7c0206ac.png",
     "static/media/About.jpg": "/static/media/About.8a3d3979521be30144f2.jpg",
     "static/media/Contact.jpg": "/static/media/Contact.13b798d6ec4d62e3e4d2.jpg",
+    "static/media/Hero.png": "/static/media/Hero.f75b302a5fa588c92339.png",
     "static/media/React.svg": "/static/media/React.4ee8d0003d0f7f9ccea0.svg",
     "static/media/WaveAnimation.svg": "/static/media/WaveAnimation.f1c7c12a4b7fddd71032.svg",
     "static/media/Laravel.svg": "/static/media/Laravel.ba995bd47e3a7cc141cc.svg",
@@ -27,20 +29,20 @@
     "static/media/Youtube.svg": "/static/media/Youtube.5b5d2187f424210c8aa0.svg",
     "static/media/Bug.svg": "/static/media/Bug.79c9d56863ccf626e541.svg",
     "static/media/Translate.svg": "/static/media/Translate.b9243ab8968020987fcdf934152c4b7d.svg",
-    "static/media/Github.svg": "/static/media/Github.0b434233fbb882ca811f.svg",
     "index.html": "/index.html",
+    "static/media/Github.svg": "/static/media/Github.0b434233fbb882ca811f.svg",
     "static/media/Tailwind.svg": "/static/media/Tailwind.017e1e304e12384d156d.svg",
     "static/media/World.svg": "/static/media/World.6c1d2f4f0ee1adc403e1.svg",
     "static/media/Code.svg": "/static/media/Code.a1227aaac904272d80cc.svg",
     "static/media/moon-fill.svg": "/static/media/moon-fill.9b943b998a06a12d76d3.svg",
     "static/media/Tiktok.svg": "/static/media/Tiktok.53b871cedf6edb7bf54b.svg",
     "static/media/Hearth.svg": "/static/media/Hearth.c68e6ce6cbede56b8de5.svg",
-    "main.655cdc6d.css.map": "/static/css/main.655cdc6d.css.map",
-    "main.ec1e2f1d.js.map": "/static/js/main.ec1e2f1d.js.map",
-    "787.6c03258b.chunk.js.map": "/static/js/787.6c03258b.chunk.js.map"
+    "main.c58d444a.css.map": "/static/css/main.c58d444a.css.map",
+    "main.5689a1b8.js.map": "/static/js/main.5689a1b8.js.map",
+    "787.efaef869.chunk.js.map": "/static/js/787.efaef869.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.655cdc6d.css",
-    "static/js/main.ec1e2f1d.js"
+    "static/css/main.c58d444a.css",
+    "static/js/main.5689a1b8.js"
   ]
 }
