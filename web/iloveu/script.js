@@ -8,6 +8,7 @@ btnYes.addEventListener('click', function() {
   const params = new URLSearchParams(window.location.href)
   if ( params.has('phone') ) {
     window.location.href = "https://api.whatsapp.com/send?phone=" + params.get('phone') + "&text=aku terima"
+    alert(params.get('phone'))
   }
 })
 
