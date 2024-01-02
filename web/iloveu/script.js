@@ -6,7 +6,11 @@ btnYes.addEventListener('click', function() {
   btnNo.style = 'top:inherite;left:inherite;'
   btnHide.setAttribute('hidden', 'hidden')
   const params = new URLSearchParams(window.location.href.substring(window.location.href.indexOf('?')))
-  window.location.href = "https://api.whatsapp.com/send?phone=" + params.get('phone') + "&text=aku terima"
+  let text = "aku terima"
+  if ( params.has('text') ) {
+    text = params.get('text')
+  }
+  window.location.href = "https://api.whatsapp.com/send?phone=" + params.get('phone') + "&text=" + text
 })
 
 function randint(min, max) {
