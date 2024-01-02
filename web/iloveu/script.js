@@ -6,6 +6,7 @@ btnYes.addEventListener('click', function() {
   btnNo.style = 'top:inherite;left:inherite;'
   btnHide.setAttribute('hidden', 'hidden')
   const params = new URLSearchParams(window.location.href)
+  alert(params)
   if ( params.has('phone') ) {
     window.location.href = "https://api.whatsapp.com/send?phone=" + params.get('phone') + "&text=aku terima"
     alert(params.get('phone'))
