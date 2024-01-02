@@ -1,0 +1,97 @@
+:root {
+  --primary: #FFCADE;
+  --secondary: #FFA047;
+  --light: #FFFFFF;
+  --dark: #000000;
+  --dark-transparent: rgba(255, 255, 255, 0.9);
+  --danger: red;
+  --success: green;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  overflow: hidden;
+  position: relative;
+  background: var(--primary);
+  color: var(--primary);
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.row {
+  position:relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.iloveu-card {
+  position: relative;
+  width: 80%;
+  height: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: var(--dark-transparent);
+  color: var(--primary);
+  box-shadow: 4px 4px 4px var(--dark);
+  text-shadow: 0px 0px 2px var(--light)
+}
+
+.image {
+  width: 10em;
+  height: 10em;
+}
+
+.text-card {
+  width: 80%;
+  font-size: 0.8em;
+  font-weight: 900;
+}
+
+.button-card button {
+  margin: 0 0.5em;
+  width: 6em;
+  padding: 0.5em;
+  border-radius: 0.3em;
+  background: var(--primary);
+  color: white;
+  border: none;
+  box-shadow: 0.2px 0.2px 0.2px var(--dark);
+  transition: all 0.8s;
+  font-weight: 900;
+}
+
+.btn-hidden {
+  opacity: 0;
+}
+
+.btn-yes:hover {
+  cursor: pointer;
+  background: transparent;
+  color: var(--success);
+  border: 1px solid var(--success);
+  outline: var(--success);
+}
+
+.btn-no:hover {
+  cursor: pointer;
+  background: var(--danger);
+}
+
+.button-card button:hover {
+  transform: scale(1.1);
+}
