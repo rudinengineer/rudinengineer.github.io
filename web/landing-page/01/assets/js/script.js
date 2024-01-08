@@ -1,5 +1,6 @@
 $(function() {
     let counter = true
+    AOS.init()
 
     if ( $(window).scrollTop() > 0 ) {
         $('.navbar').addClass('fixed')
